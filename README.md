@@ -1,4 +1,7 @@
 # vue-router-demo
+See AsyncID.vue for dynamic param matching.
+
+Initialized with `vue create` then `vue add router`
 
 ## Project setup
 ```
@@ -19,6 +22,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
